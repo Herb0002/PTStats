@@ -23,3 +23,7 @@ For Windows: Simply start the PTStats.exe file. Once the application is running,
 Step 3: Access the Application
 
 Locally: Open http://localhost:5000 in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://:5000.
+
+
+[![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.exe)
+[![Release Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases) 
