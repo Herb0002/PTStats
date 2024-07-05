@@ -1,6 +1,9 @@
 
+Download the .exe:
 [![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.exe)
+Download the .bin:
 [![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.bin)
+Version
 [![Release Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases) 
 
 For Linux:
