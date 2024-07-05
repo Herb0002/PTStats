@@ -3,7 +3,6 @@
 [![Release Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases) 
 
 For Linux:
-
 Step 1: Make the File Executable First, you need to make sure the PTStats file is executable:
 ```
 chmod +x PTStats.bin
@@ -16,14 +15,11 @@ nohup: Prevents the process from stopping when the terminal is closed. &: Runs t
 
 You also can use Screen or what ever fits for you
 
+For Windows: 
+Simply start the PTStats.exe file. Once the application is running, proceed to Step 3:
+
 Step 3: Access the Application
 
 Locally: Open http://localhost:5000 in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://:5000.
 
 These steps should help you efficiently start and access your application. If you have any further questions or need additional details, feel free to ask!
-
-For Windows: Simply start the PTStats.exe file. Once the application is running, proceed to Step 3:
-
-Step 3: Access the Application
-
-Locally: Open http://localhost:5000 in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://:5000.
