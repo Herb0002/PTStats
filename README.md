@@ -5,13 +5,13 @@
 For Linux:
 
 Step 1: Make the File Executable First, you need to make sure the PTStats file is executable:
-
+```
 chmod +x PTStats.bin
-
+```
 Step 2: Start the File in the Background Using nohup: To start the file in the background and ensure it keeps running after you close the terminal, use nohup:
-
+```
 nohup ./PTStats.bin &
-
+```
 nohup: Prevents the process from stopping when the terminal is closed. &: Runs the command in the background.
 
 You also can use Screen or what ever fits for you
