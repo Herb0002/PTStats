@@ -1,6 +1,10 @@
-[![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge&label=Download%20the%20.exe:&)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.exe)
-[![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge&label=Download%20the%20.bin:)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.bin)
-[![Release Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge&label=Version:)](https://github.com/Herb0002/PTStats/releases) 
+[![Downloads@latest](https://img.shields.io/badge/🪟%20Download%20Windows%20Version-0078D7?style=for-the-badge?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.exe)
+[![Downloads@latest](https://img.shields.io/badge/🐧%20Download%20Linux%20Version-2C2C2C?style=for-the-badge?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.bin)
+
+
+[![Downloads@all](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge&label=Downloads%20all&)](https://github.com/Herb0002/PTStats/releases)
+[![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/latest/total?style=for-the-badge&label=Download%20latest%20Release)](https://github.com/Herb0002/PTStats/releases)
+[![Downloads Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge&label=Version:)](https://github.com/Herb0002/PTStats/releases) 
 
 ### For Linux:
 Step 1: Make the File Executable First, you need to make sure the PTStats file is executable:
