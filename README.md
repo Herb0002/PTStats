@@ -6,6 +6,12 @@
 [![Downloads@latest](https://img.shields.io/github/downloads/Herb0002/PTStats/latest/total?style=for-the-badge&label=Download%20latest%20Release)](https://github.com/Herb0002/PTStats/releases)
 [![Downloads Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge&label=Version:)](https://github.com/Herb0002/PTStats/releases) 
 
+# **PTStats Installation and Usage:**
+
+# Supported Platforms:
+Windows: Windows 10 and aboven
+Linux: x86_64 (AMD64) architecture
+
 ### For Linux:
 Step 1: Make the File Executable First, you need to make sure the PTStats file is executable:
 ```
@@ -15,8 +21,27 @@ chmod +x PTStats.bin
 ```
 nohup ./PTStats.bin &
 ```
-nohup: Prevents the process from stopping when the terminal is closed. &: Runs the command in the background.  
-You also can use Screen or what ever fits for you
+nohup: Prevents the process from stopping when the terminal is closed.
+&: Runs the command in the background.
+
+> Note: The updater supports nohup and pm2. A switch between these options is possible later through the dashboard. Ensure pm2 is installed and configured for autostart using the following commands (only if you are using pm2; skip this part if you are using nohup):
+
+
+# Set up pm2 to run on startup
+```
+pm2 startup
+```
+
+# Start your application with pm2
+```
+pm2 start PTStats.bin --name PTStats
+```
+
+# Save the current process list, so it will start on reboot
+```
+pm2 save
+```
+
 
 Step 3: Access the Application
 
