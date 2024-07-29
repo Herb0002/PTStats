@@ -13,11 +13,21 @@ Windows: Windows 10 and aboven
 Linux: x86_64 (AMD64) architecture
 
 ### For Linux:
-Step 1: Make the File Executable First, you need to make sure the PTStats file is executable:
+
+Step 1: Update Your System
+
+Before proceeding with the installation, it is recommended to update your system to ensure all packages are up-to-date:
+
+```
+sudo apt update
+sudo apt upgrade -y
+```
+
+Step 2: Make the File Executable First, you need to make sure the PTStats file is executable:
 ```
 chmod +x PTStats.bin
 ```
- Step 2: Start the File in the Background Using nohup: To start the file in the background and ensure it keeps running after you close the terminal, use nohup: 
+ Step 3: Start the File in the Background Using nohup: To start the file in the background and ensure it keeps running after you close the terminal, use nohup: 
 ```
 nohup ./PTStats.bin &
 ```
