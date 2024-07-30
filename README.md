@@ -8,7 +8,7 @@
 
 # **PTStats Installation and Usage:**
 
-# Supported Platforms:
+**Supported Platforms:**
 Windows: Windows 10 and aboven
 Linux: x86_64 (AMD64) architecture
 
