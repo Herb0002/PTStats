@@ -37,17 +37,17 @@ nohup: Prevents the process from stopping when the terminal is closed.
 > Note: The updater supports nohup and pm2. A switch between these options is possible later through the dashboard. Ensure pm2 is installed and configured for autostart using the following commands (only if you are using pm2; skip this part if you are using nohup):
 
 
-# Set up pm2 to run on startup
+**Set up pm2 to run on startup**
 ```
 pm2 startup
 ```
 
-# Start your application with pm2
+**Start your application with pm2**
 ```
 pm2 start PTStats.bin --name PTStats
 ```
 
-# Save the current process list, so it will start on reboot
+**Save the current process list, so it will start on reboot**
 ```
 pm2 save
 ```
