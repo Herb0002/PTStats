@@ -9,8 +9,9 @@
 # **PTStats Installation and Usage:**
 
 **Supported Platforms:**
-Windows: Windows 10 and aboven
-Linux: x86_64 (AMD64) architecture
+- **Windows**: Windows 10 and above
+- **Linux**: x86_64 (AMD64) architecture, requires GLIBC 2.37 or higher
+
 
 ### For Linux:
 
