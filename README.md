@@ -36,33 +36,39 @@ Step 2: Make the File Executable First, you need to make sure the PTStats file i
 ```
 chmod +x PTStats.bin
 ```
- Step 3: Start the File in the Background Using nohup: To start the file in the background and ensure it keeps running after you close the terminal, use nohup: 
+Step 3: Choose a Method to Run the Application in the Background
+You can use either nohup or pm2 to run the application in the background.
+
+Option 1: Using nohup
+To start the file in the background and ensure it keeps running after you close the terminal, use:
+
 ```
 nohup ./PTStats.bin &
 ```
 nohup: Prevents the process from stopping when the terminal is closed.
 &: Runs the command in the background.
 
-> Note: The updater supports nohup and pm2. A switch between these options is possible later through the dashboard. Ensure pm2 is installed and configured for autostart using the following commands (only if you are using pm2; skip this part if you are using nohup):
+Option 2: Using pm2
+If you prefer using pm2, ensure it is installed and configured for autostart:
 
-
-**Set up pm2 to run on startup**
+Set up pm2 to run on startup:
 ```
 pm2 startup
 ```
 
-**Start your application with pm2**
+Start your application with pm2:
 ```
 pm2 start PTStats.bin --name PTStats
 ```
 
-**Save the current process list, so it will start on reboot**
+Save the current process list, so it will start on reboot:
 ```
 pm2 save
 ```
+> Note: You only need to use one of these methods (nohup or pm2). You can switch between them later through the dashboard if necessary.
 
 
-Step 3: Access the Application
+Step 4: Access the Application
 
 Locally: Open http://localhost:5000/login in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000.
 
