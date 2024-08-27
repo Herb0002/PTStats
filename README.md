@@ -70,14 +70,14 @@ pm2 save
 
 Step 4: Access the Application
 
-Locally: Open http://localhost:5000/login in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000.
+Locally: Open http://localhost:5000/login in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000/login.
 
 --- 
 ### For Windows: 
 Step 1: Simply start the PTStats.exe file. Once the application is running, proceed to 
 
 Step 2: Access the Application  
-Locally: Open http://localhost:5000/login in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000.
+Locally: Open http://localhost:5000/login in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000/login.
 
 ---
 These steps should help you efficiently start and access your application. If you have any further questions or need additional details, feel free to ask!
