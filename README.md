@@ -7,7 +7,7 @@
 [![Downloads Version Badge](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge&label=Version:)](https://github.com/Herb0002/PTStats/releases) 
 
 
-![PT Stats Logo](https://cdn.discordapp.com/attachments/1056301681190654083/1277610537211138140/ptaddon.2fa95fea.png?ex=66cdcb08&is=66cc7988&hm=8dac1b3a0bf5535ffe6e90f03cdebdd525074f4b92e2be87e11e38fb1b0e877b&)
+![PT Stats Logo](Logo.png)
 
 PT Stats is an authorized add-on to ProfitTrailer, one of the best crypto trading bots. However, it is developed and supported by a different team, so the ProfitTrailer support channels will not be able to provide any support information about this tool.
 
