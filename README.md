@@ -18,7 +18,10 @@ For any assistance or inquiries regarding PT Stats, please feel free to join the
 
 **Supported Platforms:**
 - **Windows**: Windows 10 and above
-- **Linux**: x86_64 (AMD64) architecture, requires GLIBC 2.37 or higher
+- **Linux**:
+  - **x86_64 (AMD64)** architecture, requires GLIBC 2.37 or higher
+  - **ARM** architecture, requires GLIBC 2.37 or higher
+
 
 
 ### For Linux:
