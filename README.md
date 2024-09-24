@@ -71,16 +71,32 @@ pm2 save
 > Note: You only need to use one of these methods (nohup or pm2). You can switch between them later through the dashboard if necessary.
 
 
-Step 4: Access the Application
+### Step 4: Access the Application
 
-Locally: Open http://localhost:5000 in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000.
+#### Locally
+- Open [http://localhost:5000](http://localhost:5000) in your web browser.
 
---- 
-### For Windows: 
-Step 1: Simply start the PTStats.exe file. Once the application is running, proceed to 
+#### Remotely
+- Replace `localhost` with your server's domain name or IP address, e.g., [https://DOMAIN:5000](https://DOMAIN:5000).
 
-Step 2: Access the Application  
-Locally: Open http://localhost:5000 in your web browser. Remotely: Replace localhost with the server's IP address, e.g., http://DOMAIN:5000.
+**Best Practice:** It is recommended to use a domain with **SSL** (HTTPS). Accessing the application without SSL is **not recommended**.
+
+---
+### For Windows:
+
+#### Step 1
+- Simply start the `PTStats.exe` file. Once the application is running, proceed to:
+
+#### Step 2: Access the Application
+
+#### Locally
+- Open [http://localhost:5000](http://localhost:5000) in your web browser.
+
+#### Remotely
+- Replace `localhost` with the server's IP address or domain, e.g., [https://DOMAIN:5000](https://DOMAIN:5000).
+
+**Best Practice:** It is recommended to use a domain with **SSL** (HTTPS). Accessing the application without SSL is **not recommended**.
 
 ---
 These steps should help you efficiently start and access your application. If you have any further questions or need additional details, feel free to ask!
+
