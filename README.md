@@ -2,7 +2,6 @@
 ![PT Stats Logo](Logo.png)
 
 [![Download PTStats.zip](https://img.shields.io/badge/⬇️%20Download%20PTStats.zip-4C1?style=for-the-badge)](https://github.com/Herb0002/PTStats/releases/latest/download/PTStats.zip)
-
 [![Total Downloads](https://img.shields.io/github/downloads/Herb0002/PTStats/total?style=for-the-badge&label=Downloads%20All)](https://github.com/Herb0002/PTStats/releases)
 [![Latest Release](https://img.shields.io/github/downloads/Herb0002/PTStats/latest/total?style=for-the-badge&label=Download%20Latest%20Release)](https://github.com/Herb0002/PTStats/releases)
 [![Version](https://img.shields.io/github/v/release/Herb0002/PTStats?style=for-the-badge&label=Version:)](https://github.com/Herb0002/PTStats/releases)
