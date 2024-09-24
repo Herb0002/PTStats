@@ -19,10 +19,10 @@ For any assistance or inquiries regarding PT Stats, please feel free to join the
     - [Update Your System](#update-your-system)
     - [Make the File Executable](#make-the-file-executable)
     - [Run the Application in the Background](#run-the-application-in-the-background)
-    - [Access the Application](#access-the-application-linux)
+    - [Access the Application](#access-the-application)
 3. [For Windows](#for-windows)
     - [Start the Application](#start-the-application)
-    - [Access the Application](#access-the-application-windows)
+    - [Access the Application](#access-the-application)
 
 ## Supported Platforms:
 - **Windows**: Windows 10 and above
@@ -77,7 +77,7 @@ pm2 save
 ```
 > Note: You only need to use one of these methods (nohup or pm2). You can switch between them later through the dashboard if necessary.
 
-### Access the Application {#access-the-application-linux}
+### Access the Application
 
 #### Locally
 - Open [http://localhost:5000](http://localhost:5000) in your web browser.
@@ -91,10 +91,10 @@ pm2 save
 
 ### For Windows:
 
-#### Start the Application {#start-the-application}
+#### Start the Application
 - Simply start the `PTStats.exe` file. Once the application is running, proceed to:
 
-### Access the Application {#access-the-application-windows}
+### Access the Application
 
 #### Locally
 - Open [http://localhost:5000](http://localhost:5000) in your web browser.
